@@ -35,4 +35,20 @@ public class MethodsTests
         Assert.Equal("Hello!", actual);
 
     }
+
+    [InlineData(0, 1, false)]
+    [InlineData(4, 7, false)]
+    [InlineData(-1, 1, false)]
+    [InlineData(5, 6, false)]
+    public void AreTwoNumbersTheSame(int number1, int number2, bool expected)
+    {
+        // Arrange
+        Methods instance = new Methods();
+
+        // Act
+        bool actual = instance.AreTwoNumbersTheSame(number1, number2);
+
+        // Assert
+        Assert.Equal(expected, actual);
+    }
 }

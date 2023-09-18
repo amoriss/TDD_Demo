@@ -1,0 +1,15 @@
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\bin\Debug\net6.0\TDD_Demo.exe
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\bin\Debug\net6.0\TDD_Demo.deps.json
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\bin\Debug\net6.0\TDD_Demo.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\bin\Debug\net6.0\TDD_Demo.dll
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\bin\Debug\net6.0\TDD_Demo.pdb
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\obj\Debug\net6.0\TDD_Demo.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\obj\Debug\net6.0\TDD_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\obj\Debug\net6.0\TDD_Demo.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\obj\Debug\net6.0\TDD_Demo.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\obj\Debug\net6.0\TDD_Demo.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\obj\Debug\net6.0\TDD_Demo.dll
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\obj\Debug\net6.0\refint\TDD_Demo.dll
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\obj\Debug\net6.0\TDD_Demo.pdb
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\obj\Debug\net6.0\TDD_Demo.genruntimeconfig.cache
+C:\Users\amori\Desktop\Repos\05_TDD\TDD_Demo\TDD_Demo\TDD_Demo\obj\Debug\net6.0\ref\TDD_Demo.dll

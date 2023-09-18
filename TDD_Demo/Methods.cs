@@ -25,4 +25,17 @@ public class Methods
         }
         return arr.Sum();
     }
+    public bool AreTwoNumbersTheSame(int num1, int num2)
+    {
+        if (num1 == num2)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+
 }
