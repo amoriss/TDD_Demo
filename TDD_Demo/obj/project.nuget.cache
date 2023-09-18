@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7oBnNVQu/Lx45bw0b2HkXBhkWXkwOIfXXELLfZq+Yc7Rfy96mXiwPmc8e6W1b6d+zdZC6N8hBbBC5GDyD3AoHw==",
+  "dgSpecHash": "VYXKQJwEr3AWaDxfmTccoelsX5Q0xdYpwiqUS3yQR9g+YsvrLEXpo5RK3V16qP+fAFdo2gx4WPIwRQh69HAv7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\amori\\Desktop\\Repos\\05_TDD\\TDD_Demo\\TDD_Demo\\TDD_Demo\\TDD_Demo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\amori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

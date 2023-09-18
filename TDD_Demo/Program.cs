@@ -15,7 +15,9 @@ namespace TDD_Demo
             //    3. Helps you focus on quality
             //    4. Break code into smaller chucks
             //    5. You add more error handling
-               
+
+            //TEST EARLY, TEST OFTEN!
+
 
             //ARRANGE
             //initializes variables
@@ -29,7 +31,7 @@ namespace TDD_Demo
             //verify the act
 
 
-            //TEST EARLY, TEST OFTEN!
+
         }
     }
 }
